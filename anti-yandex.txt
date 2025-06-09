@@ -1,3 +1,7 @@
+!
+!
+!
+!
 *.yandex.ru
 *.yandex.net
 *.yandex.com
@@ -6,3 +10,13 @@
 *.mc.yandex.ru
 *.directadv.it
 *.yabs.yandex.net
+!
+!
+!
+!
+! additional by adblock.turtlecute.org
+afs.googlesyndication.com
+api.bugsnag.com
+browser.sentry-cdn.com
+app.bugsnag.com
+appmetrica.yandex.ru
