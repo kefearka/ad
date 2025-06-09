@@ -1,0 +1,8 @@
+*.yandex.ru
+*.yandex.net
+*.yandex.com
+*.adfox.ru
+*.metrica.yandex.com
+*.mc.yandex.ru
+*.directadv.it
+*.yabs.yandex.net
